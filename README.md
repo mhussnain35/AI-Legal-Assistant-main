@@ -20,8 +20,7 @@ AI Legal Assistant is a web-based application that leverages Artificial Intellig
 
 ### Frontend
 
-* HTML
-* CSS
+* React.js
 * JavaScript
 
 ### Backend
